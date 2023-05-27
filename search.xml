@@ -2,6 +2,31 @@
 <search> 
   
   
+    
+    <entry>
+      <title>hello</title>
+      <link href="/2023/05/27/hello/"/>
+      <url>/2023/05/27/hello/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world"></a>hello world</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> hello </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hello </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
