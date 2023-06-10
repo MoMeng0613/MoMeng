@@ -6,7 +6,7 @@
   <link href="http://momeng0613.github.io/atom.xml" rel="self"/>
   
   <link href="http://momeng0613.github.io/"/>
-  <updated>2023-05-27T03:43:39.671Z</updated>
+  <updated>2023-06-10T07:30:07.903Z</updated>
   <id>http://momeng0613.github.io/</id>
   
   <author>
@@ -17,27 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello</title>
-    <link href="http://momeng0613.github.io/2023/05/27/hello/"/>
-    <id>http://momeng0613.github.io/2023/05/27/hello/</id>
-    <published>2023-05-27T03:43:06.000Z</published>
-    <updated>2023-05-27T03:43:39.671Z</updated>
+    <title>原理图</title>
+    <link href="http://momeng0613.github.io/2023/05/28/yuan-li-tu/"/>
+    <id>http://momeng0613.github.io/2023/05/28/yuan-li-tu/</id>
+    <published>2023-05-28T13:56:53.000Z</published>
+    <updated>2023-06-10T07:30:07.903Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h1 id=&quot;hello-world&quot;&gt;&lt;a</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h1 id=&quot;注意事项：&quot;&gt;&lt;a href=&quot;#注意事项：&quot;</summary>
         
       
     
     
     
-    <category term="hello" scheme="http://momeng0613.github.io/categories/hello/"/>
+    <category term="原理图" scheme="http://momeng0613.github.io/categories/%E5%8E%9F%E7%90%86%E5%9B%BE/"/>
     
     
-    <category term="hello" scheme="http://momeng0613.github.io/tags/hello/"/>
+    <category term="电气原理图" scheme="http://momeng0613.github.io/tags/%E7%94%B5%E6%B0%94%E5%8E%9F%E7%90%86%E5%9B%BE/"/>
     
   </entry>
   

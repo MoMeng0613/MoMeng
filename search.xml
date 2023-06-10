@@ -4,23 +4,23 @@
   
     
     <entry>
-      <title>hello</title>
-      <link href="/2023/05/27/hello/"/>
-      <url>/2023/05/27/hello/</url>
+      <title>原理图</title>
+      <link href="/2023/05/28/yuan-li-tu/"/>
+      <url>/2023/05/28/yuan-li-tu/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world"></a>hello world</h1>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="注意事项："><a href="#注意事项：" class="headerlink" title="注意事项："></a>注意事项：</h1><p>1.工控机用的是结构盒。</p><p>2.接线盒的标识符没办法通过表格修改，记得手动修改好。</p><p>3.CPU是由L+供电的，PLC接口模块由L2+供电。</p><p>4.数字输入输出部分，关联的接线盒端子和电缆内要跳线。</p><p>5.外检报警灯和扫描报警灯接线时接O的时候要三通倒过来接。</p><p>5.画图结束后重新更新编号。</p><h2 id="电缆："><a href="#电缆：" class="headerlink" title="电缆："></a>电缆：</h2><p>1.电缆的标识加等号，但是RGV供电的电缆标识符不加等号，电缆的功能文本不需要加等号，屏蔽层没有功能文本。</p><p>2.RFID供电的电缆用的是预制电缆，光电的电缆也是预制电缆。</p><p>3.现场供电的电缆不加功能文本。</p><p>4.给现场供电的电缆的功能文本要和现场功能文本一致。</p><h2 id="需要关联："><a href="#需要关联：" class="headerlink" title="需要关联："></a>需要关联：</h2><p>1.电缆的标识符要与屏蔽层标识符相同，要关联上。</p><p>2.像带灯按钮之类需要关联，指示灯不需要关联但是要加功能文本。</p><p>3.变频器控制回路中的变频器要和输送机供配电中的变频器关联。</p>]]></content>
       
       
       <categories>
           
-          <category> hello </category>
+          <category> 原理图 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> hello </tag>
+            <tag> 电气原理图 </tag>
             
         </tags>
       
